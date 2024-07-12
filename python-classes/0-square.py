@@ -3,8 +3,8 @@
 This module defines an empty class Square.
 """
 
-class Square:
-    
+
+class Square: 
     """
     A class used to represent a square.
     """
